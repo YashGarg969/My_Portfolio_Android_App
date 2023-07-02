@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_pic_selector.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\pic_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\menu_savedetails.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\menu\\savedetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_skillsdialog.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\skillsdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_certification_details.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_certification_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_profilebackground.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\profilebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_project.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\project.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_skills.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\skills.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_capture.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\capture.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_nav_header.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_drawer_bg.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\drawer_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_resume.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_resume.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\menu_addlink.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\menu\\addlink.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_skills_item.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\skills_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_view_headline_24.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\ic_baseline_view_headline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_view_headline_24.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\baseline_view_headline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_project_item.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\project_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_education_details.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_education_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_education.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\education.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_linkedin.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_certificate.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\certificate.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_done.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\done.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_skill_details.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_skill_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_resume.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\resume.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_check.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_certifications_dialog.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\certifications_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_project_details.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_project_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_certificate_item.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\certificate_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_education_detail_item.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\education_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_projects_dialog.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\projects_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\menu_my_navitems.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\menu\\my_navitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\drawable_github.png.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\drawable\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\merged_res\\debug\\layout_educationdetails_dialog.xml.flat",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\educationdetails_dialog.xml"
+    }
+]

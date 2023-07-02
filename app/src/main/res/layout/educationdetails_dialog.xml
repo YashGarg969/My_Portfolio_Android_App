@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageButton
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_cancel_24"
+        android:layout_alignParentRight="true"
+        android:backgroundTintMode="screen"/>
+    <EditText
+        android:id="@+id/coursename"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cancel"
+        android:layout_margin="10dp"
+        android:hint="Enter Course Name"
+        android:textSize="20sp"/>
+<EditText
+        android:id="@+id/duration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/coursename"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:hint="Enter Duration Of Course(XXXX-XXXX)"
+        android:textSize="20sp" />
+
+<EditText
+        android:id="@+id/institute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Institute/School Name"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:layout_below="@+id/duration"/>
+    <EditText
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Institute Location"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:layout_below="@+id/institute"/>
+    <EditText
+        android:id="@+id/cgpa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/location"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:inputType="numberDecimal"
+        android:hint="Enter Your Cgpa/Percentage"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/cgpa"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:text="Save Changes"/>
+
+
+</RelativeLayout>

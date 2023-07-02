@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/education"
+        android:title="Education Details"
+        android:icon="@drawable/education"
+        />
+    <item
+        android:id="@+id/techskills"
+        android:title="Technical Skills"
+        android:icon="@drawable/skills"
+        />
+    <item
+        android:id="@+id/project"
+        android:title="Projects"
+        android:icon="@drawable/project"
+        />
+    <item android:id="@+id/certifications"
+        android:title="Certifications"
+        android:icon="@drawable/certificate"
+        />
+    <item
+        android:id="@+id/resume"
+        android:title="My Resume"
+        android:icon="@drawable/resume"
+    />
+</menu>

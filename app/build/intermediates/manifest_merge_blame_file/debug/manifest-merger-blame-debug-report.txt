@@ -1,0 +1,168 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.androidsquad.myportfolio"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:4:1-62
+11-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:4:18-60
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:11:5-80
+12-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:11:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:12:5-81
+13-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:12:22-78
+14
+15    <application
+15-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:5:5-43:19
+16        android:allowBackup="true"
+16-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:6:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\781fc31b6bea77f3549b4a024fc01601\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:7:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:8:9-41
+21        android:requestLegacyExternalStorage="true"
+21-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:9:9-52
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:10:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:11:9-35
+24        android:theme="@style/Theme.MyPortfolio" >
+24-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:12:9-49
+25        <activity
+25-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:13:9-15:40
+26            android:name="com.androidsquad.myportfolio.ResumeActivity"
+26-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:14:13-43
+27            android:exported="false" />
+27-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:15:13-37
+28        <activity
+28-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:16:9-18:40
+29            android:name="com.androidsquad.myportfolio.Nav_Header"
+29-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:17:13-39
+30            android:exported="false" />
+30-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:18:13-37
+31        <activity
+31-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:19:9-21:40
+32            android:name="com.androidsquad.myportfolio.SkillDetails"
+32-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:20:13-41
+33            android:exported="false" />
+33-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:21:13-37
+34        <activity
+34-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:22:9-30:20
+35            android:name="com.androidsquad.myportfolio.MyProfile"
+35-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:23:13-38
+36            android:exported="true" >
+36-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:24:13-36
+37            <intent-filter>
+37-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:25:13-29:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:26:17-69
+38-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:26:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:28:17-77
+40-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:28:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:31:9-33:40
+44            android:name="com.androidsquad.myportfolio.CertificationDetails"
+44-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:32:13-49
+45            android:exported="false" />
+45-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:33:13-37
+46        <activity
+46-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:34:9-36:40
+47            android:name="com.androidsquad.myportfolio.project_details"
+47-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:35:13-44
+48            android:exported="false" />
+48-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:36:13-37
+49        <activity
+49-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:37:9-39:40
+50            android:name="com.androidsquad.myportfolio.EducationDetails"
+50-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:38:13-45
+51            android:exported="false" />
+51-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:39:13-37
+52        <activity
+52-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:40:9-42:40
+53            android:name="com.androidsquad.myportfolio.MainActivity"
+53-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:41:13-41
+54            android:exported="false" />
+54-->C:\Users\YASH GARG\AndroidStudioProjects\MyPortfolio\app\src\main\AndroidManifest.xml:42:13-37
+55
+56        <service
+56-->[androidx.room:room-runtime:2.5.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\93f88c58c48bef1efe818e7a7f9eb0ff\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+57            android:name="androidx.room.MultiInstanceInvalidationService"
+57-->[androidx.room:room-runtime:2.5.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\93f88c58c48bef1efe818e7a7f9eb0ff\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+58            android:directBootAware="true"
+58-->[androidx.room:room-runtime:2.5.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\93f88c58c48bef1efe818e7a7f9eb0ff\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+59            android:exported="false" />
+59-->[androidx.room:room-runtime:2.5.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\93f88c58c48bef1efe818e7a7f9eb0ff\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+60
+61        <activity
+61-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:15:9-18:68
+62            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+62-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:16:13-81
+63            android:screenOrientation="unspecified"
+63-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:17:13-52
+64            android:theme="@style/Theme.Transparent.ImagePicker" />
+64-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:18:13-65
+65        <activity
+65-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:19:9-22:72
+66            android:name="com.yalantis.ucrop.UCropActivity"
+66-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:20:13-60
+67            android:screenOrientation="portrait"
+67-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:21:13-49
+68            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+68-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:22:13-69
+69
+70        <provider
+70-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:24:9-32:20
+71            android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider"
+71-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:25:13-85
+72            android:authorities="com.androidsquad.myportfolio.imagepicker.provider"
+72-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:26:13-72
+73            android:exported="false"
+73-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:27:13-37
+74            android:grantUriPermissions="true" >
+74-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:28:13-47
+75            <meta-data
+75-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:29:13-31:71
+76                android:name="android.support.FILE_PROVIDER_PATHS"
+76-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:30:17-67
+77                android:resource="@xml/image_picker_provider_paths" />
+77-->[com.github.dhaval2404:imagepicker-support:1.7.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\9d422af411d8fd2297f2a81b38e10e16\transformed\jetified-imagepicker-support-1.7.1\AndroidManifest.xml:31:17-68
+78        </provider>
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\33df638ff162f5a309cf1be9a30f25a7\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\33df638ff162f5a309cf1be9a30f25a7\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+81            android:authorities="com.androidsquad.myportfolio.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\33df638ff162f5a309cf1be9a30f25a7\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\33df638ff162f5a309cf1be9a30f25a7\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\33df638ff162f5a309cf1be9a30f25a7\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\33df638ff162f5a309cf1be9a30f25a7\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YASH GARG\.gradle\caches\transforms-3\33df638ff162f5a309cf1be9a30f25a7\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\e8f8d59de3d3b3ecbb20f32d752a0bc9\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\e8f8d59de3d3b3ecbb20f32d752a0bc9\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\YASH GARG\.gradle\caches\transforms-3\e8f8d59de3d3b3ecbb20f32d752a0bc9\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+89        </provider>
+90    </application>
+91
+92</manifest>

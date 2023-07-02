@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_certification_details.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_certification_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\skillsdialog.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\skillsdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\project_item.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\project_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_education_details.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_education_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_skill_details.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_skill_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\educationdetails_dialog.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\educationdetails_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_project_details.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_project_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\certifications_dialog.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\certifications_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\certificate_item.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\certificate_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_profile.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\education_detail_item.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\education_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\projects_dialog.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\projects_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_header.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_resume.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\activity_resume.xml"
+    },
+    {
+        "merged": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\skills_item.xml",
+        "source": "C:\\Users\\YASH GARG\\AndroidStudioProjects\\MyPortfolio\\app\\src\\main\\res\\layout\\skills_item.xml"
+    }
+]

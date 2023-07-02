@@ -1,0 +1,94 @@
+com/androidsquad/myportfolio/databinding/ProjectItemBinding.java
+ com.androidsquad.myportfolio.databinding.ProjectItemBinding
+com/androidsquad/myportfolio/BuildConfig.java
+ com.androidsquad.myportfolio.BuildConfig
+com/androidsquad/myportfolio/Education.java
+ com.androidsquad.myportfolio.Education
+com/androidsquad/myportfolio/databinding/ActivityCertificationDetailsBinding.java
+ com.androidsquad.myportfolio.databinding.ActivityCertificationDetailsBinding
+com/androidsquad/myportfolio/EducationDetails.java
+ com.androidsquad.myportfolio.EducationDetails
+com/androidsquad/myportfolio/databinding/ActivityMyProfileBinding.java
+ com.androidsquad.myportfolio.databinding.ActivityMyProfileBinding
+com/androidsquad/myportfolio/PreferencesHelper.java
+ com.androidsquad.myportfolio.PreferencesHelper
+com/androidsquad/myportfolio/ResumeActivity.java
+ com.androidsquad.myportfolio.ResumeActivity
+ com.androidsquad.myportfolio.ResumeActivity$1
+ com.androidsquad.myportfolio.ResumeActivity$2
+com/androidsquad/myportfolio/Skill.java
+ com.androidsquad.myportfolio.Skill
+com/androidsquad/myportfolio/databinding/ActivitySkillDetailsBinding.java
+ com.androidsquad.myportfolio.databinding.ActivitySkillDetailsBinding
+com/androidsquad/myportfolio/ProjectDAO.java
+ com.androidsquad.myportfolio.ProjectDAO
+com/androidsquad/myportfolio/CertificateDAO.java
+ com.androidsquad.myportfolio.CertificateDAO
+com/androidsquad/myportfolio/databinding/ProjectsDialogBinding.java
+ com.androidsquad.myportfolio.databinding.ProjectsDialogBinding
+com/androidsquad/myportfolio/databinding/ActivityProjectDetailsBinding.java
+ com.androidsquad.myportfolio.databinding.ActivityProjectDetailsBinding
+com/androidsquad/myportfolio/Certificate.java
+ com.androidsquad.myportfolio.Certificate
+com/androidsquad/myportfolio/ProjectAdapter.java
+ com.androidsquad.myportfolio.ProjectAdapter
+ com.androidsquad.myportfolio.ProjectAdapter$1
+ com.androidsquad.myportfolio.ProjectAdapter$myViewHolder
+com/androidsquad/myportfolio/SkillDao.java
+ com.androidsquad.myportfolio.SkillDao
+com/androidsquad/myportfolio/databinding/CertificationsDialogBinding.java
+ com.androidsquad.myportfolio.databinding.CertificationsDialogBinding
+com/androidsquad/myportfolio/databinding/ActivityMainBinding.java
+ com.androidsquad.myportfolio.databinding.ActivityMainBinding
+com/androidsquad/myportfolio/Retrieve_Education_Task.java
+ com.androidsquad.myportfolio.Retrieve_Education_Task
+com/androidsquad/myportfolio/Project.java
+ com.androidsquad.myportfolio.Project
+com/androidsquad/myportfolio/Nav_Header.java
+ com.androidsquad.myportfolio.Nav_Header
+com/androidsquad/myportfolio/databinding/ActivityResumeBinding.java
+ com.androidsquad.myportfolio.databinding.ActivityResumeBinding
+com/androidsquad/myportfolio/Retrieve_Cert_Details_Task.java
+ com.androidsquad.myportfolio.Retrieve_Cert_Details_Task
+com/androidsquad/myportfolio/project_details.java
+ com.androidsquad.myportfolio.project_details
+com/androidsquad/myportfolio/databinding/ActivityEducationDetailsBinding.java
+ com.androidsquad.myportfolio.databinding.ActivityEducationDetailsBinding
+com/androidsquad/myportfolio/EducationAdapter.java
+ com.androidsquad.myportfolio.EducationAdapter
+ com.androidsquad.myportfolio.EducationAdapter$myViewHolder
+com/androidsquad/myportfolio/databinding/EducationDetailItemBinding.java
+ com.androidsquad.myportfolio.databinding.EducationDetailItemBinding
+com/androidsquad/myportfolio/databinding/CertificateItemBinding.java
+ com.androidsquad.myportfolio.databinding.CertificateItemBinding
+com/androidsquad/myportfolio/databinding/EducationdetailsDialogBinding.java
+ com.androidsquad.myportfolio.databinding.EducationdetailsDialogBinding
+com/androidsquad/myportfolio/SkillDetails.java
+ com.androidsquad.myportfolio.SkillDetails
+com/androidsquad/myportfolio/RetrieveDetailsTask.java
+ com.androidsquad.myportfolio.RetrieveDetailsTask
+com/androidsquad/myportfolio/AppDatabase.java
+ com.androidsquad.myportfolio.AppDatabase
+com/androidsquad/myportfolio/skillsAdapter.java
+ com.androidsquad.myportfolio.skillsAdapter
+ com.androidsquad.myportfolio.skillsAdapter$myViewHolder
+com/androidsquad/myportfolio/databinding/SkillsdialogBinding.java
+ com.androidsquad.myportfolio.databinding.SkillsdialogBinding
+com/androidsquad/myportfolio/databinding/ActivityNavHeaderBinding.java
+ com.androidsquad.myportfolio.databinding.ActivityNavHeaderBinding
+com/androidsquad/myportfolio/Retrieve_Skills_Task.java
+ com.androidsquad.myportfolio.Retrieve_Skills_Task
+com/androidsquad/myportfolio/CertificationDetails.java
+ com.androidsquad.myportfolio.CertificationDetails
+com/androidsquad/myportfolio/databinding/SkillsItemBinding.java
+ com.androidsquad.myportfolio.databinding.SkillsItemBinding
+com/androidsquad/myportfolio/DAO.java
+ com.androidsquad.myportfolio.DAO
+com/androidsquad/myportfolio/CertificateAdapter.java
+ com.androidsquad.myportfolio.CertificateAdapter
+ com.androidsquad.myportfolio.CertificateAdapter$1
+ com.androidsquad.myportfolio.CertificateAdapter$myViewHolder
+com/androidsquad/myportfolio/MainActivity.java
+ com.androidsquad.myportfolio.MainActivity
+ com.androidsquad.myportfolio.MainActivity$1
+ com.androidsquad.myportfolio.MainActivity$2

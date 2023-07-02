@@ -1,0 +1,4 @@
+com/androidsquad/myportfolio/ExampleInstrumentedTest.java
+ com.androidsquad.myportfolio.ExampleInstrumentedTest
+com/androidsquad/myportfolio/test/BuildConfig.java
+ com.androidsquad.myportfolio.test.BuildConfig

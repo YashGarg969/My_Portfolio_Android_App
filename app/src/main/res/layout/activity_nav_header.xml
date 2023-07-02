@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Nav_Header">
+  <de.hdodenhof.circleimageview.CircleImageView
+      android:layout_width="125dp"
+      android:layout_height="125dp"
+      android:id="@+id/profilePic"
+      android:src="@drawable/ic_launcher_background"
+      android:layout_marginLeft="16dp"
+      android:layout_marginTop="16dp"/>
+  <TextView
+      android:layout_toRightOf="@+id/profilePic"
+      android:id="@+id/yash"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="30dp"
+    android:layout_marginTop="16dp"
+      android:text="Yash Garg"
+      android:textSize="25dp"
+      android:textStyle="bold"
+      android:textColor="@color/black" />
+
+  <TextView
+      android:id="@+id/myPosition"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/yash"
+      android:layout_marginLeft="20dp"
+      android:layout_marginTop="10dp"
+      android:layout_toRightOf="@+id/profilePic"
+      android:text="Android Developer"
+      android:textColor="@color/black"
+      android:textSize="20sp" />
+
+  <View
+      style="@style/line"
+      android:layout_width="match_parent"
+      android:layout_below="@+id/profilePic"
+      android:layout_marginTop="10dp"
+      android:background="#858282" />
+  </RelativeLayout>

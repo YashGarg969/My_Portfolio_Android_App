@@ -1,0 +1,2 @@
+com/androidsquad/myportfolio/ExampleUnitTest.java
+ com.androidsquad.myportfolio.ExampleUnitTest

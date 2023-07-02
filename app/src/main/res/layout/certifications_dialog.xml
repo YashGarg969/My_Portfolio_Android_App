@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageButton
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="0dp"
+        android:src="@drawable/baseline_cancel_24"
+        android:backgroundTintMode="screen"
+        android:layout_alignParentRight="true"/>
+    <EditText
+        android:id="@+id/certTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_below="@+id/cancel"
+        android:hint="Enter the title of certificate"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/certifyingCompany"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/certTitle"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+        android:hint="Enter name of certifying company"
+        android:textSize="20sp" />
+    <EditText
+        android:id="@+id/certLink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_below="@+id/certifyingCompany"
+        android:hint="Enter the link of certificate"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/certLink"
+        android:layout_centerHorizontal="true"
+        android:text="Save Changes"
+        android:textColor="@color/white"
+        android:textSize="15sp"/>
+
+
+</RelativeLayout>

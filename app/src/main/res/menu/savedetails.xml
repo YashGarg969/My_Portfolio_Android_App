@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/education"
+        android:title="Edit Education Details"/>
+    <item android:id="@+id/Skills"
+        android:title="Edit Technical Details"/>
+    <item android:id="@+id/project"
+        android:title="Edit Project Details"/>
+    <item android:id="@+id/certification"
+        android:title="Edit Certification Details"/>
+</menu>
