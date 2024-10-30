@@ -1,4 +1,4 @@
-# My_Portfolio_Android_App
+# Portfolio Generator Android App
 This Android application serves as a dynamic portfolio where users can personalize their profiles with their own details after installation. Unlike traditional hardcoded portfolio apps, this project empowers users to input and manage their information directly through the app interface.
 
 # Features
